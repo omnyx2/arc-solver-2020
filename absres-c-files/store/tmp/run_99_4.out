@@ -1,17 +1,0 @@
-Running only task # 99
-Using max depth 4
- |                                        | 0 / 416 (0.0%)Function count: 142
-1.53438
-1.79644
-2.36936
-2.77484
-1.08241
-1.26083
-1.2237
-1.42255
- 39.8 ±  0.0 ms - Piece loop time
- 49.1 ± 37.8 ms - Set time
- 27.3 ±  1.1 ms - Child looking time
-60.1054
-68.5984
-73.6727
