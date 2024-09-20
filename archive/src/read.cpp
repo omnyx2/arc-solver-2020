@@ -143,9 +143,7 @@ Image Sample::readImage() {
 
 
 vector<Sample> readAll(string path, int maxn) { //maxn = -1
-  const string base_path[2] = {
-    "~/arc-solver-2020/", 
-    "./working/abstraction-and-reasoning-challenge/"};
+  const string base_path[2] = {"./working/abstraction-and-reasoning-challenge/", ""};
 
   int base_pathi = 0;
   while (!experimental::filesystem::exists(base_path[base_pathi]+path)) {
