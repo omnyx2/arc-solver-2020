@@ -1,0 +1,78 @@
+Running only task # 183
+Using max depth 4
+ |                                        | 0 / 416 (0.0%)Function count: 142
+0.143525
+0.158874
+0.140606
+0.153507
+0.197088
+0.216229
+0.190114
+0.210506
+ 45.6 ±  0.0 ms - Piece loop time
+ 45.0 ± 35.7 ms - Set time
+ 34.7 ±  1.1 ms - Child looking time
+4.67046
+5.21387
+11.2444
+11983.6 ±  0.0 ms - Total time
+5341.8 ±  0.0 ms - Build f time
+1023.7 ±  9.9 ms - Apply f time
+4930.4 ± 21.6 ms - Real f time 
+2696.8 ± 34.1 ms - Add time
+280.3 ±  2.4 ms - Find child
+397.9 ±  8.8 ms - Add child
+1974.8 ± 17.3 ms - Hash
+2230.5 ± 39.7 ms - Map
+1304.0 ±  7.0 ms - getState
+4.60661
+5.09726
+10.6234
+22607.0 ±  0.0 ms - Total time
+9948.4 ±  0.0 ms - Build f time
+1958.3 ± 13.5 ms - Apply f time
+9321.7 ± 33.7 ms - Real f time 
+4995.9 ± 47.2 ms - Add time
+541.1 ±  3.5 ms - Find child
+775.4 ± 18.2 ms - Add child
+3750.2 ± 18.6 ms - Hash
+4207.5 ± 46.3 ms - Map
+2500.6 ± 13.1 ms - getState
+6.01958
+6.73656
+13.8518
+36458.9 ±  0.0 ms - Total time
+15968.0 ±  0.0 ms - Build f time
+3169.0 ± 16.3 ms - Apply f time
+15040.6 ± 45.2 ms - Real f time 
+8099.5 ± 56.4 ms - Add time
+875.4 ±  5.3 ms - Find child
+1251.3 ± 19.6 ms - Add child
+5949.5 ± 19.4 ms - Hash
+6766.7 ± 49.9 ms - Map
+4141.1 ± 21.8 ms - getState
+6.54573
+7.32318
+15.1206
+51579.6 ±  0.0 ms - Total time
+22513.7 ±  0.0 ms - Build f time
+4474.1 ± 20.1 ms - Apply f time
+21255.6 ± 48.8 ms - Real f time 
+11524.0 ± 80.4 ms - Add time
+1229.8 ±  5.8 ms - Find child
+1767.6 ± 20.3 ms - Add child
+8338.7 ± 20.7 ms - Hash
+9500.0 ± 50.6 ms - Map
+5893.1 ± 23.2 ms - getState
+Dag sizes: 6920045 6183605 8367135 8832879 
+brutePieces time: 50.8431
+9858.9 ±  0.0 ms - Piece loop time
+4081.5 ± 176.4 ms - Set time
+5622.2 ± 17.2 ms - Child looking time
+Nodes:  30303664
+Pieces: 9892039
+makePieces time: 9.88414
+Memory: 450.6 + 1119.2 + 969.7 + 753.3 + 418.1 MB
+ 82.4 ±  0.0 ms - Greedy fill time
+composePieces time: 35.5746
+                                                                                

@@ -147,3 +147,7 @@ brutePieces time: 11.1208
 Nodes:  3869914
 Pieces: 466029
 makePieces time: 0.515879
+Memory: 172.6 + 122.0 + 123.8 + 99.7 + 36.8 MB
+100.0 ±  4.9 ms - Greedy fill time
+composePieces time: 32.3378
+                                                                                

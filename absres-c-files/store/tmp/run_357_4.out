@@ -1,0 +1,83 @@
+Running only task # 357
+Using max depth 4
+ |                                        | 0 / 416 (0.0%)Function count: 142
+0.557597
+0.645924
+0.460529
+0.534161
+0.411666
+0.475279
+0.211005
+0.240471
+0.574269
+0.665544
+ 42.8 ±  0.0 ms - Piece loop time
+ 25.2 ± 15.6 ms - Set time
+ 32.6 ±  1.2 ms - Child looking time
+17.9389
+20.5384
+38.9653
+41526.9 ±  0.0 ms - Total time
+20154.0 ±  0.0 ms - Build f time
+2531.0 ± 14.5 ms - Apply f time
+18852.2 ± 62.7 ms - Real f time 
+10199.8 ± 48.1 ms - Add time
+285.3 ±  2.6 ms - Find child
+468.8 ±  7.7 ms - Add child
+7194.4 ± 19.9 ms - Hash
+2804.2 ± 42.6 ms - Map
+4949.1 ± 28.2 ms - getState
+14.0822
+16.1561
+30.8446
+72371.6 ±  0.0 ms - Total time
+34236.2 ±  0.0 ms - Build f time
+4477.4 ± 18.0 ms - Apply f time
+32133.0 ± 85.1 ms - Real f time 
+17944.7 ± 69.6 ms - Add time
+524.7 ±  3.8 ms - Find child
+856.2 ± 11.9 ms - Add child
+12837.3 ± 26.0 ms - Hash
+5079.2 ± 48.1 ms - Map
+8749.2 ± 30.0 ms - getState
+13.1113
+15.0097
+29.9734
+102345.0 ±  0.0 ms - Total time
+47347.5 ±  0.0 ms - Build f time
+6416.1 ± 25.7 ms - Apply f time
+44322.4 ± 95.7 ms - Real f time 
+25532.3 ± 82.6 ms - Add time
+791.1 ±  5.1 ms - Find child
+1280.3 ± 12.2 ms - Add child
+18413.4 ± 33.0 ms - Hash
+7568.2 ± 53.3 ms - Map
+12543.5 ± 33.0 ms - getState
+6.89618
+7.83949
+14.3034
+116648.5 ±  0.0 ms - Total time
+54243.7 ±  0.0 ms - Build f time
+7435.5 ± 26.2 ms - Apply f time
+50881.9 ± 99.4 ms - Real f time 
+29658.1 ± 935.7 ms - Add time
+990.8 ±  5.7 ms - Find child
+1617.8 ± 21.4 ms - Add child
+20696.0 ± 36.8 ms - Hash
+9407.8 ± 56.9 ms - Map
+14144.7 ± 34.5 ms - getState
+18.0465
+20.7735
+40.8561
+157504.6 ±  0.0 ms - Total time
+72290.1 ±  0.0 ms - Build f time
+10054.5 ± 37.9 ms - Apply f time
+67783.5 ± 121.2 ms - Real f time 
+40189.3 ± 958.8 ms - Add time
+1296.9 ±  6.0 ms - Find child
+2125.5 ± 26.5 ms - Add child
+28091.5 ± 50.4 ms - Hash
+12301.3 ± 61.4 ms - Map
+19383.9 ± 39.3 ms - getState
+Dag sizes: 10025301 8501192 9361301 6762386 11018398 
+brutePieces time: 154.946

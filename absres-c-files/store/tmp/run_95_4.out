@@ -1,0 +1,29 @@
+Running only task # 95
+Using max depth 4
+ |                                        | 0 / 416 (0.0%)Function count: 142
+1.78314
+1.97265
+2.37717
+2.73804
+1.64491
+1.80822
+2.52598
+2.87097
+ 39.0 ±  0.0 ms - Piece loop time
+ 40.0 ± 32.3 ms - Set time
+ 30.4 ±  1.0 ms - Child looking time
+48.8214
+54.0499
+76.207
+85597.1 ±  0.0 ms - Total time
+57152.6 ±  0.0 ms - Build f time
+4149.0 ± 39.3 ms - Apply f time
+55657.9 ± 521.6 ms - Real f time 
+15594.2 ± 119.6 ms - Add time
+248.1 ±  2.2 ms - Find child
+358.6 ±  2.6 ms - Add child
+11480.7 ± 45.8 ms - Hash
+2090.6 ± 65.2 ms - Map
+7568.4 ± 46.2 ms - getState
+78.2762
+88.7374
