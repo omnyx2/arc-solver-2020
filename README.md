@@ -14,10 +14,11 @@ Put a absolute path of you computer
 
 #  My Env
 My environment is bellow
-1. Wsl2&jupyter notebook
-2. Python 3.10
+1. Wsl2 & jupyter notebook
+2. Python 3.10, over 3.9 could be possible, under that code use 'type' feature of python so it will never work under py.38
 3. For tree I had to change the base_estimator to estimator, the name of parameter was changed be aware of it.
-
+4. This only works in Linux system, because of ice-cuber
+5. 
 
 # Start!
 Enjoy!
